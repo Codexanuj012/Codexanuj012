@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me: Hi 👋, I'm Anuj Kushawaha<br>A passionate full Stack developer from India<br>🔭 I’m pursuing B. Tech in Computer Science And Engineering<br>🌱 I’m currently learning :- HTML,CSS, JavaScript, Python, AI Agent<br>📫 How to reach me:-95anuj.ak@gmail.com<br>👨‍💻 All of my projects are available at :-https://github.com/Codexanuj012<br>⚡ Fun fact:- I think I am Funny
+Hi 👋, I'm Anuj Kushawaha<br>A passionate full Stack developer from India<br>🔭 I’m pursuing B. Tech in Computer Science And Engineering<br>🌱 I’m currently learning :- HTML,CSS, JavaScript, Python, AI Agent<br>📫 How to reach me:-95anuj.ak@gmail.com<br>👨‍💻 All of my projects are available at :-https://github.com/Codexanuj012<br>⚡ Fun fact:- I think I am Funny
 
 
 <picture>
