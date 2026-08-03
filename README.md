@@ -1,41 +1,164 @@
-# 💫 About Me:
-Hi 👋, I'm Anuj Kushawaha<br>A passionate full Stack developer from India<br>🔭 I’m pursuing B. Tech in Computer Science And Engineering<br>🌱 I’m currently learning :- HTML,CSS, JavaScript, Python, AI Agent<br>📫 How to reach me:-95anuj.ak@gmail.com<br>👨‍💻 All of my projects are available at :-https://github.com/Codexanuj012<br>⚡ Fun fact:- I think I am Funny
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:915EFF,100:1a1443&height=220&section=header&text=Anuj%20Kushawaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=20" width="100%"/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<a href="https://linkedin.com/in/anuj-kushawaha">
+  <img src="https://img.shields.io/badge/LinkedIn-915EFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:95anuj.ak@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1443?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Codex_Anuj/">
+  <img src="https://img.shields.io/badge/LeetCode-915EFF?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://komarev.com/ghpvc/?username=Codexanuj012&label=Profile+Views&color=915EFF&style=for-the-badge" />
+</a>
 
+<br/><br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=915EFF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+that+scale;MERN+Stack+%7C+JWT+%7C+REST+APIs;Turning+ideas+into+clean%2C+working+code;Always+learning+%2C+always+shipping" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anuj Kushawaha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rj_anuj045) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuj-kushawaha/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Anuj Kushawaha) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anuj Kushawaha) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/null_code) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:95anuj.ak@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Codexanuj012&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Codexanuj012&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codexanuj012&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Codexanuj012&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=915EFF&height=2&width=100%" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🧑‍💻 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=Codexanuj012&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+name: Anuj Kushawaha
+role: Full Stack Developer (MERN)
+education: B.Tech CSE @ ABES Engineering College '28
+location: Varanasi, Uttar Pradesh, India
+currently_learning: [AI Agents, System Design]
+looking_for: Software Developer / MERN Stack roles
+fun_fact: "I think I'm funny 😄"
+```
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Codexanuj012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=915EFF&icon_color=915EFF&text_color=c9d1d9" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=915EFF&height=2&width=100%" />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,django,mongodb,mysql,git,github,vscode,postman,figma,bootstrap&theme=dark&perline=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=915EFF&height=2&width=100%" />
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🎟️ Eventora — Full Stack Event Booking Platform</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/-React-915EFF?style=flat-square&logo=react&logoColor=white)
+![MERN](https://img.shields.io/badge/-MERN-915EFF?style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-915EFF?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-915EFF?style=flat-square&logo=bootstrap&logoColor=white)
+
+- 🧩 12+ responsive pages across Admin & User dashboards, backed by 10+ REST APIs
+- 🔐 JWT auth with role-based access, securing 80% of protected routes
+- 🎫 Real-time seat validation — 100% duplicate bookings prevented
+- ♻️ 25+ reusable React components, cutting duplicate code by 35%
+
+</details>
+
+<details>
+<summary><b>📋 Complaint Management System</b></summary>
+<br/>
+
+![HTML5](https://img.shields.io/badge/-HTML5-915EFF?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-915EFF?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-915EFF?style=flat-square&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-915EFF?style=flat-square&logo=bootstrap&logoColor=white)
+
+- 📮 Responsive complaint portal with 8+ modules for submitting and tracking complaints
+- ✅ Custom Login/Signup validation, reducing form errors by 40%
+- 📱 5+ mobile-friendly pages built with Bootstrap
+
+</details>
+
+<details>
+<summary><b>🏥 Bio Tech Park, Lucknow — Online Admission System</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-915EFF?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-915EFF?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-915EFF?style=flat-square&logo=mysql&logoColor=white)
+
+- 🎓 Supported 150+ student registrations with secure, role-based login
+- 📧 Automated email notifications — cut manual communication by 70%
+- 🗄️ Designed 8+ MySQL tables, improving query performance by 30%
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=915EFF&height=2&width=100%" />
+
+## 💼 Experience
+
+```
+📅 June 2024 – August 2024
+🏢 Full Stack Developer Trainee @ Softpro India
+🔧 React.js · Python · Django · SQL · REST APIs · Auth · Payment Gateway · Git
+```
+
+## 🎓 Education
+
+```
+🎓 B.Tech, Computer Science and Engineering
+   ABES Engineering College, Ghaziabad · Expected 2028
+
+🎓 Diploma, Computer Science and Engineering
+   Government Polytechnic Rajgarh Mirzapur · 2022–2025 · 74.5%
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=915EFF&height=2&width=100%" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codexanuj012&theme=radical&hide_border=true&background=0d1117&ring=915EFF&fire=915EFF&currStreakLabel=915EFF" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codexanuj012&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=915EFF&text_color=c9d1d9" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Codexanuj012&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=915EFF&height=2&width=100%" />
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/95anuj.ak@gmail.com-915EFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:95anuj.ak@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/anuj--kushawaha-1a1443?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-kushawaha)
+[![LeetCode](https://img.shields.io/badge/Codex__Anuj-915EFF?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Codex_Anuj/)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1443,100:915EFF&height=100&section=footer" width="100%"/>
+
+</div>
