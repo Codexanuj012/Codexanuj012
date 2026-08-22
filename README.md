@@ -161,174 +161,103 @@ fun_fact: "I think I'm funny 😄"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1443,100:915EFF&height=100&section=footer" width="100%"/>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
 
-#dmdcdckmdcdkcd 
-# Anuj Kushawaha
+# ANUJ KUSHAWAHA
 
-📧 95anuj.ak@gmail.com  
-📱 6354184676  
-📍 Varanasi, Uttar Pradesh, India  
+**Computer Science & Engineering Student | Full Stack Developer**
 
-## 🔗 Profiles
+95anuj.ak@gmail.com &nbsp; | &nbsp; 6354184676 &nbsp; | &nbsp; Varanasi, Uttar Pradesh
 
-- **LeetCode:** https://leetcode.com/u/Codex_Anuj/
-- **GitHub:** https://github.com/Codexanuj012
-- **LinkedIn:** https://www.linkedin.com/in/anuj-kushawaha/
-- **Portfolio:** https://anuj-portfolio-8c6w.onrender.com/
+[LeetCode](https://leetcode.com/u/Codex_Anuj/) &nbsp; • &nbsp;
+[GitHub](https://github.com/Codexanuj012) &nbsp; • &nbsp;
+[LinkedIn](https://www.linkedin.com/in/anuj-kushawaha/) &nbsp; • &nbsp;
+[Portfolio](https://anuj-portfolio-8c6w.onrender.com/)
 
----
-
-# 💻 Skills
-
-### Programming Languages
-- Python
-- JavaScript (ES6+)
-- SQL
-
-### Frontend Development
-- HTML5
-- CSS3
-- Bootstrap 5
-- React.js
-
-### Backend Development
-- Node.js
-- Express.js
-- Django
-- RESTful APIs
-- JWT Authentication
-
-### Databases
-- MongoDB
-- MySQL
-
-### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Postman
-- Power BI
-
-### Operating Systems
-- Windows
-- Linux
+</div>
 
 ---
 
-# 🚀 Projects
+## SKILLS
 
-## Eventora – Full Stack Event Booking Platform (2026)
+**Languages:** Python, JavaScript (ES6+), SQL
 
-**Tech Stack:** React.js, MERN, JWT, Bootstrap, Nodemailer
+**Frontend:** HTML5, CSS3, Bootstrap 5, React.js
 
-- Developed a MERN-based Event Booking Platform with 12+ responsive pages.
-- Built Admin & User dashboards and implemented 10+ REST APIs.
-- Implemented JWT Authentication with role-based access control.
-- Secured 80% protected routes for Admin and User roles.
-- Built 2 interactive dashboards with 15+ management features.
-- Implemented real-time seat validation to prevent duplicate bookings.
-- Created 25+ reusable React components, reducing duplicate code by 35%.
+**Backend:** Node.js, Express.js, Django, RESTful APIs, JWT Authentication
 
----
+**Database:** MongoDB, MySQL
 
-## Complaint Management System
+**Tools:** Git, GitHub, VS Code, Postman, Power BI
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
-
-- Developed a responsive complaint management portal.
-- Implemented Login & Signup functionality using JavaScript.
-- Reduced form validation errors by 40%.
-- Designed 5+ responsive pages with mobile-friendly layouts.
-- Enabled students to submit and track complaints efficiently.
+**Operating Systems:** Windows, Linux
 
 ---
 
-## Bio Tech Park, Lucknow – Online Admission System (2024)
+## PROJECTS
 
-**Role:** Full Stack Developer Trainee | Softpro India
+### Eventora – Full Stack Event Booking Platform
+**2026 | React.js | MERN | JWT | Bootstrap | Nodemailer**
 
-**Tech Stack:** Python, Django, MySQL, HTML, CSS, JavaScript, Bootstrap
+- Developed a MERN-based Event Booking Platform with **12+ responsive pages**, serving Admin & User dashboards and implementing **10+ REST APIs**.
+- Implemented **JWT Authentication** with role-based access for **2 user types (Admin & User)**, securing 80% protected routes.
+- Built **2 interactive dashboards** with 15+ management features, including event booking, payment tracking, and analytics.
+- Crafted real-time seat validation, preventing **100% duplicate bookings** and improving booking accuracy.
+- Created **25+ reusable React components**, reducing duplicate code by **35%** and improving maintainability.
 
-- Developed an Online Admission System supporting 150+ student registrations.
-- Implemented secure login and role-based access control.
-- Integrated automated email notifications reducing manual communication by 70%.
-- Designed and managed 8+ MySQL tables.
-- Improved query performance by 30% and ensured secure data storage.
+### Complaint Management System
+**HTML5 | CSS3 | JavaScript | Bootstrap**
+
+- Delivered a responsive complaint management portal with **8+ modules**, allowing students to submit and track complaints.
+- Implemented Login & Signup using JavaScript, reducing form validation errors by **40%**.
+- Designed **5+ responsive pages** using Bootstrap and CSS with mobile-friendly layouts.
+
+### Bio Tech Park, Lucknow – Online Admission System
+**2024 | Full Stack Developer Trainee – Softpro India**
+
+**Python | Django | MySQL | HTML | CSS | JavaScript | Bootstrap**
+
+- Created an Online Admission System supporting **150+ student registrations** with secure login and role-based access.
+- Integrated automated email notifications, reducing manual communication by **70%**.
+- Designed and managed **8+ MySQL tables**, improving query performance by **30%** and ensuring secure data storage.
 
 ---
 
-# 🎓 Education
+## EDUCATION
 
-## ABES Engineering College
+### ABES Engineering College
 **B.Tech – Computer Science and Engineering**  
-*2025 – 2028*  
-Ghaziabad, Uttar Pradesh
+Ghaziabad | **2025 – 2028**
 
-### Relevant Coursework
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-
----
-
-## Government Polytechnic Rajgarh Mirzapur
+### Government Polytechnic Rajgarh Mirzapur
 **Diploma – Computer Science and Engineering**  
-*2022 – 2025*  
-Rajgarh, Mirzapur, Uttar Pradesh
-
-**Grade:** 74.5%
+Rajgarh, Mirzapur | **2022 – 2025**  
+**Grade: 74.5%**
 
 ---
 
-# 📜 Certifications
+## CERTIFICATES
 
-## Full Stack Developer Training – Softpro India
+### Full Stack Developer Training — Softpro India
 **August 2024**
 
-### Project Experience
-- Bio Tech Park, Lucknow – Online Admission System
+**Project Experience:** Bio Tech Park, Lucknow – Online Admission System
 
-### Key Skills Covered
-- React.js
-- Python
-- Django
-- SQL
-- REST APIs
-- Authentication
-- Payment Gateway Integration
-- Git
-- Database Management
+**Key Skills Covered:** React.js, Python, Django, SQL, REST APIs, Authentication, Payment Gateway Integration, Git, Database Management
 
 ---
 
-# 🏆 Achievements
+## LANGUAGES
 
-- Engineered 3 production-grade full-stack applications utilizing the MERN stack and Python.
-- Successfully completed intensive Full Stack Development training focused on scalable web architectures.
-- Developed and deployed multiple responsive web applications using modern development practices.
-- Built secure authentication and role-based access systems across multiple projects.
+**Hindi:** Native  
+**English:** Professional Working Proficiency
 
 ---
 
-# 🌐 Languages
+## ACHIEVEMENTS
 
-- **Hindi** – Native Proficiency
-- **English** – Professional Working Proficiency
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codexanuj012&show_icons=true)
-
-## 🔥 LeetCode Profile
-
-🔗 https://leetcode.com/u/Codex_Anuj/
-
----
-
-⭐ If you like my work, feel free to connect with me on LinkedIn and GitHub.
+- Engineered **3 production-grade full-stack applications** utilizing the MERN stack and Python.
+- Graduated from intensive **Full Stack Development training** with a focus on scalable web architectures.
 
 </div>
