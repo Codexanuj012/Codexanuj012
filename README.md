@@ -161,4 +161,174 @@ fun_fact: "I think I'm funny 😄"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1443,100:915EFF&height=100&section=footer" width="100%"/>
 
+
+#dmdcdckmdcdkcd 
+# Anuj Kushawaha
+
+📧 95anuj.ak@gmail.com  
+📱 6354184676  
+📍 Varanasi, Uttar Pradesh, India  
+
+## 🔗 Profiles
+
+- **LeetCode:** https://leetcode.com/u/Codex_Anuj/
+- **GitHub:** https://github.com/Codexanuj012
+- **LinkedIn:** https://www.linkedin.com/in/anuj-kushawaha/
+- **Portfolio:** https://anuj-portfolio-8c6w.onrender.com/
+
+---
+
+# 💻 Skills
+
+### Programming Languages
+- Python
+- JavaScript (ES6+)
+- SQL
+
+### Frontend Development
+- HTML5
+- CSS3
+- Bootstrap 5
+- React.js
+
+### Backend Development
+- Node.js
+- Express.js
+- Django
+- RESTful APIs
+- JWT Authentication
+
+### Databases
+- MongoDB
+- MySQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
+- Power BI
+
+### Operating Systems
+- Windows
+- Linux
+
+---
+
+# 🚀 Projects
+
+## Eventora – Full Stack Event Booking Platform (2026)
+
+**Tech Stack:** React.js, MERN, JWT, Bootstrap, Nodemailer
+
+- Developed a MERN-based Event Booking Platform with 12+ responsive pages.
+- Built Admin & User dashboards and implemented 10+ REST APIs.
+- Implemented JWT Authentication with role-based access control.
+- Secured 80% protected routes for Admin and User roles.
+- Built 2 interactive dashboards with 15+ management features.
+- Implemented real-time seat validation to prevent duplicate bookings.
+- Created 25+ reusable React components, reducing duplicate code by 35%.
+
+---
+
+## Complaint Management System
+
+**Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
+
+- Developed a responsive complaint management portal.
+- Implemented Login & Signup functionality using JavaScript.
+- Reduced form validation errors by 40%.
+- Designed 5+ responsive pages with mobile-friendly layouts.
+- Enabled students to submit and track complaints efficiently.
+
+---
+
+## Bio Tech Park, Lucknow – Online Admission System (2024)
+
+**Role:** Full Stack Developer Trainee | Softpro India
+
+**Tech Stack:** Python, Django, MySQL, HTML, CSS, JavaScript, Bootstrap
+
+- Developed an Online Admission System supporting 150+ student registrations.
+- Implemented secure login and role-based access control.
+- Integrated automated email notifications reducing manual communication by 70%.
+- Designed and managed 8+ MySQL tables.
+- Improved query performance by 30% and ensured secure data storage.
+
+---
+
+# 🎓 Education
+
+## ABES Engineering College
+**B.Tech – Computer Science and Engineering**  
+*2025 – 2028*  
+Ghaziabad, Uttar Pradesh
+
+### Relevant Coursework
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+---
+
+## Government Polytechnic Rajgarh Mirzapur
+**Diploma – Computer Science and Engineering**  
+*2022 – 2025*  
+Rajgarh, Mirzapur, Uttar Pradesh
+
+**Grade:** 74.5%
+
+---
+
+# 📜 Certifications
+
+## Full Stack Developer Training – Softpro India
+**August 2024**
+
+### Project Experience
+- Bio Tech Park, Lucknow – Online Admission System
+
+### Key Skills Covered
+- React.js
+- Python
+- Django
+- SQL
+- REST APIs
+- Authentication
+- Payment Gateway Integration
+- Git
+- Database Management
+
+---
+
+# 🏆 Achievements
+
+- Engineered 3 production-grade full-stack applications utilizing the MERN stack and Python.
+- Successfully completed intensive Full Stack Development training focused on scalable web architectures.
+- Developed and deployed multiple responsive web applications using modern development practices.
+- Built secure authentication and role-based access systems across multiple projects.
+
+---
+
+# 🌐 Languages
+
+- **Hindi** – Native Proficiency
+- **English** – Professional Working Proficiency
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codexanuj012&show_icons=true)
+
+## 🔥 LeetCode Profile
+
+🔗 https://leetcode.com/u/Codex_Anuj/
+
+---
+
+⭐ If you like my work, feel free to connect with me on LinkedIn and GitHub.
+
 </div>
